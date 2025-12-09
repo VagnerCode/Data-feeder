@@ -27,10 +27,10 @@ O **Data Feeder** foi desenvolvido para eliminar o trabalho manual e repetitivo 
 ## 🛠 Tecnologias Utilizadas
 
 - **Linguagem:** [Python](https://www.python.org/)
-- **Interface:** [Tkinter](https://docs.python.org/3/library/tkinter.html)
-- **API Google:** [gspread](https://docs.gspread.org/) & [Google Client Library](https://github.com/googleapis/google-api-python-client)
+- **Interface Gráfica:** [Tkinter](https://docs.python.org/3/library/tkinter.html)
+- **Bibliotecas de Integração:** [gspread](https://docs.gspread.org/), [Google Client Library](https://github.com/googleapis/google-api-python-client)
+- **APIs do Google:** Google Sheets API, Google Drive API
 - **Gerenciamento de Ambiente:** [python-dotenv](https://pypi.org/project/python-dotenv/)
-
 ---
 
 ## ⚙️ Pré-requisitos e Configuração
