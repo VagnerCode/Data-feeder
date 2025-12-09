@@ -1,0 +1,10 @@
+# Arquivos de ambiente e segredos
+.env
+credentials.json
+token.json
+token.pickle
+
+# Arquivos de sistema/cache
+__pycache__/
+*.pyc
+.DS_Store
