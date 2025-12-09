@@ -91,6 +91,7 @@ Na primeira execução, uma janela do navegador será aberta solicitando permiss
 ├── credentials.json # Credencial do Google (NÃO COMMITE ESTE ARQUIVO)
 
 └── README.md # Documentação do projeto
+
 🛡 Segurança
 
 Este projeto segue boas práticas de segurança:
