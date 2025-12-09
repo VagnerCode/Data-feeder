@@ -98,9 +98,11 @@ As credenciais (credentials.json, token.json) e configurações de ambiente (.en
 Certifique-se de que seu arquivo .gitignore contenha essas exceções.
 
 🤝 Contribuição
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 📝 Licença
+
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 <p align="center"> <sub>Desenvolvido por <b>Vagner Carvalho</b></sub> </p>
