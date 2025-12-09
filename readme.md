@@ -55,27 +55,24 @@ Crie um arquivo chamado `.env` na raiz do projeto para armazenar o ID da planilh
 PLANILHA_ID=insira_aqui_o_id_da_sua_planilha_google
 ```
 
-📦 Instalação e Execução
+## 📦 Instalação e Execução
+
 Clone o repositório e instale as dependências:
 
-Bash
-
+```bash
 # 1. Clone o repositório
-
 git clone [https://github.com/VagnerCode/Data-feeder.git](https://github.com/VagnerCode/Data-feeder.git)
 
 # 2. Entre na pasta
-
-cd data-feeder
+cd Data-feeder
 
 # 3. Instale as dependências
-
 pip install -r requirements.txt
 
 # 4. Execute a aplicação
-
 python app.py
 Na primeira execução, uma janela do navegador será aberta solicitando permissão para acessar o Google Drive/Sheets. Após aceitar, um arquivo token.json será gerado automaticamente.
+```
 
 📂 Estrutura do Projeto
 /
